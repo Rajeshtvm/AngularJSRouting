@@ -1,0 +1,5 @@
+C:\Samples\AngularJSRouting\AngularJSRouting\bin\AngularJSRouting.dll
+C:\Samples\AngularJSRouting\AngularJSRouting\bin\AngularJSRouting.pdb
+C:\Samples\AngularJSRouting\AngularJSRouting\obj\Debug\AngularJSRouting.csprojResolveAssemblyReference.cache
+C:\Samples\AngularJSRouting\AngularJSRouting\obj\Debug\AngularJSRouting.dll
+C:\Samples\AngularJSRouting\AngularJSRouting\obj\Debug\AngularJSRouting.pdb
